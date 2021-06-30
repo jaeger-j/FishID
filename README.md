@@ -22,11 +22,13 @@ As an alternative to destructive and extractive methods, underwater video survey
     * [bibtex](bib/jaeger2015.bib), [pdf](http://www.bmva.org/bmvc/2015/mvab/papers/paper006/paper006.pdf), [web](http://www.bmva.org/bmvc/2015/mvab/papers/paper006/index.html)
     * [Dataset](datasets/croatianFishDataset.zip)
 
+## Related Software Projects
+* [A web application for automatic fish video analysis - Using point localization for fish counting](https://github.com/tkwant/fish-localization)
+![](images/2021-06-30-09-25-54.png)
+* [Investigation and implementation of modern object detectors for the automatic recognition of fish in videos](https://github.com/mDp0r/FishDet)
+* [DAVIT Tracker - Tracking for Fishvideos](https://github.com/gitdudek/davit)
+
 ## Participating institutions
 * [Fulda University of Applied Sciences](https://www.hs-fulda.de/elektrotechnik-und-informationstechnik/forschung/enview-projekte/fishidentification)
 * [University of Zadar](https://www.unizd.hr/cimmar/about-us/introduction)
 * [Computer Vision Group Jena](http://www.inf-cv.uni-jena.de/Home.html)
-
-## Related Software Projects
-* [Investigation and implementation of modern object detectors for the automatic recognition of fish in videos](https://github.com/mDp0r/FishDet)
-* [DAVIT Tracker - Tracking for Fishvideos](https://github.com/gitdudek/davit)
